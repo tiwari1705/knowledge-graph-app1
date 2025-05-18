@@ -1,7 +1,0 @@
-streamlit
-PyMuPDF
-spacy==3.8.4
-networkx
-matplotlib
-requests
-beautifulsoup4
