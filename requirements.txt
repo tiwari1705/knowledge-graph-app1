@@ -1,0 +1,7 @@
+streamlit
+PyMuPDF
+spacy
+networkx
+matplotlib
+requests
+beautifulsoup4
